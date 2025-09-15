@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Pingjun Hong"
+title                    : "Pingjun Hong （洪娉君）"
 description              : "First-year PhD student at University of Vienna"
 repository               : "PingjunHong/PingjunHong.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Pingjun Hong"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Pingjun Hong (洪娉君)"
+  avatar           : "images/profile.JPG"
   bio              : "University of Vienna"
   location         : "Vienna, Austria"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=HFpNErgAAAAJ&hl=en"
   email            : "pingjun.hong@univie.ac.at"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "pingjun-hong"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
