@@ -1,5 +1,6 @@
 # 📖 Educations
 - *2022.10 - 2025.08*, Master of Science - Computational Linguistics, Ludwig Maximilian University of Munich, Munich, Germany.
+    - Master Thesis: [Within-Label Variation in Natural Language Inference: A Linguistic Taxonomy for Explanations and Its Impact on Model Interpretation of Label Decisions](https://github.com/PingjunHong/masterthesis)
 - *2020.10 - 2022.08*, Master of Art - Cultural and Cognitive Linguistics, Ludwig Maximilian University of Munich, Munich, Germany.
 - *2016.09 - 2020.08*, Bachelor of Art - German Language and Linguistics, Guangdong University of Foreign Studies, Guangzhou, China.
 - *2010.09 - 2016.06*, Beijing National Day School, Beijing, China.
