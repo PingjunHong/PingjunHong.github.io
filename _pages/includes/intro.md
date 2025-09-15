@@ -1,0 +1,4 @@
+Hi!
+I am Pingjun, a first-year PhD student (starting September 2025) at the [Research Group Data Mining and Machine Learning](https://dm.cs.univie.ac.at/), University of Vienna, where I will work under the supervision of [Prof. Benjamin Roth](https://www.benjaminroth.net/). My research interests lie in explainable natural language processing, human-centered NLP, and cross-lingual information retrieval.
+
+Before that, I completed two Master’s degrees at LMU Munich: an M.A. in Cultural and Cognitive Linguistics (2020–2022) and an M.Sc. in Computational Linguistics (2022–2025). From 2024 to 2025, I worked as a research assistant (HiWi) at the [MaiNLP lab](https://mainlp.github.io/) with Prof. Barbara Plank, focusing on projects in human label variation and information retrieval.
