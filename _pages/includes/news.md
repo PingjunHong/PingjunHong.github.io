@@ -1,5 +1,5 @@
 # 🔥 News
-**Apr 06, 2025:** 🎉 1 paper accepted to [ACL 2026 Findings](https://2026.aclweb.org/). Check it out: [Agree, Disagree, Explain: Decomposing Human Label Variation in NLI through the Lens of Explanations](https://arxiv.org/pdf/2510.16458).
+**Apr 06, 2026:** 🎉 1 paper accepted to [ACL 2026 Findings](https://2026.aclweb.org/). Check it out: [Agree, Disagree, Explain: Decomposing Human Label Variation in NLI through the Lens of Explanations](https://arxiv.org/pdf/2510.16458).
 
 **Nov 09, 2025:** 🏆 Happy to share that our EMNLP Main paper [LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference](https://aclanthology.org/2025.emnlp-main.1728/) has been selected as SAC Highlights! Many thanks to all my co-authors.
 
