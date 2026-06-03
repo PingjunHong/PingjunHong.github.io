@@ -14,6 +14,7 @@
 
 [LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference](https://aclanthology.org/2025.emnlp-main.1728.pdf) \\
 **Pingjun Hong**, Beiduo Chen, Siyao Peng, Marie-Catherine de Marneffe, Barbara Plank
+[**DATA & CODE**](https://github.com/mainlp/LiTEx)
 
 </div>
 </div>
