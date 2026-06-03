@@ -6,6 +6,10 @@
 [Agree, Disagree, Explain: Decomposing Human Label Variation in NLI through the Lens of Explanations](https://arxiv.org/pdf/2510.16458) \\
 **Pingjun Hong**, Beiduo Chen, Siyao Peng, Marie-Catherine de Marneffe, Benjamin Roth, Barbara Plank
 
+[**DATA & CODE**](https://github.com/mainlp/LiTEx-NLI-extension)
+
+- In Findings of the Association for Computational Linguistics: ACL 2026, Jul 2026
+
 </div>
 </div>
 
