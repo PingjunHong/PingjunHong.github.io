@@ -14,7 +14,10 @@
 
 [LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference](https://aclanthology.org/2025.emnlp-main.1728.pdf) \\
 **Pingjun Hong**, Beiduo Chen, Siyao Peng, Marie-Catherine de Marneffe, Barbara Plank
+
 [**DATA & CODE**](https://github.com/mainlp/LiTEx)
+
+- In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, Nov 2025
 
 </div>
 </div>
@@ -24,6 +27,10 @@
 
 [Evaluating Large Language Models for Cross-Lingual Retrieval](https://aclanthology.org/2025.findings-emnlp.612.pdf) \\
 Longfei Zuo, **Pingjun Hong**, Oliver Kraus, Barbara Plank, Robert Litschko
+
+[**DATA & CODE**](https://github.com/mainlp/llm-clir)
+
+- In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, Nov 2025
 
 </div>
 </div>
