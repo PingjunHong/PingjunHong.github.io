@@ -1,5 +1,5 @@
 # 🔥 News
-**Jul 04, 2026:** 🏝️ I will be presenting ony poster at ACL in San Diego: [Agree, Disagree, Explain](https://aclanthology.org/2026.findings-acl.1342/).
+**Jul 04, 2026:** 🏝️ I will be presenting ony poster at ACL 2026 in San Diego: [Agree, Disagree, Explain](https://aclanthology.org/2026.findings-acl.1342/).
 
 **Apr 06, 2026:** 🎉 1 paper accepted to [ACL 2026 Findings](https://2026.aclweb.org/). Check it out: [Agree, Disagree, Explain: Decomposing Human Label Variation in NLI through the Lens of Explanations](https://arxiv.org/pdf/2510.16458).
 
