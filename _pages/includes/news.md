@@ -1,4 +1,6 @@
 # 🔥 News
+**Sep 01, 2026:** 🎉 Excited to share that our paper, [Human Label Variation as Stable Signal: Learning Annotator-Specific Explanation Behavior via Cross-Annotator Preference Optimization](https://arxiv.org/abs/2605.28802) has been accepted to the EMNLP 2026 main conference. Congrats to all the co-authors.
+
 **Jul 04, 2026:** 🏝️ I will be presenting ony poster at ACL 2026 in San Diego: [Agree, Disagree, Explain](https://aclanthology.org/2026.findings-acl.1342/).
 
 **Apr 06, 2026:** 🎉 1 paper accepted to [ACL 2026 Findings](https://2026.aclweb.org/). Check it out: [Agree, Disagree, Explain: Decomposing Human Label Variation in NLI through the Lens of Explanations](https://arxiv.org/pdf/2510.16458).
